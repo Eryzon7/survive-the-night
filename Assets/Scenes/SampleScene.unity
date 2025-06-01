@@ -17518,6 +17518,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5716179016415462844, guid: bffb7b0d17ab8a8488ed4b9c112b9252, type: 3}
+      propertyPath: maxHealth
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7300474597958368282, guid: bffb7b0d17ab8a8488ed4b9c112b9252, type: 3}
       propertyPath: m_Name
       value: Torch_Red_0
